@@ -3,7 +3,7 @@
 - 👋 Hello! your friendly and objective Android developer is here!
 - 💞️ I’m interested in Android, Kotlin, Java, Gradle, and clean design
 - 👀 I’m looking to collaborate on a modern Android project
-- 🌐 You can learn more about me at: <a href="https://nexatech.dz/youcef-debbah/">nexatech.dz/youcef-debbah</a>
+- 🌐 More about me at: <a href="https://nexatech.dz/youcef-debbah/">nexatech.dz/youcef-debbah</a>
 - 📫 You can reach me at: youcef-debbah@hotmail.com
 
 ## Technologies
