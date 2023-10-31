@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="dev-avatar.png">
 
 - 👋 Hello! your friendly and objective Android developer is here!
 - 💞️ I’m interested in Android, Kotlin, Java, Gradle, and clean design
