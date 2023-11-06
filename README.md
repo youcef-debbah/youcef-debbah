@@ -1,10 +1,10 @@
 <img align="right" alt="coding" width="400" src="dev-avatar.png">
 
-- 👋 Hello! your friendly and objective Android developer is here!
-- 💞️ I’m interested in Android, Kotlin, Java, Gradle, and clean design
+- 👋 Hello! Your friendly and objective Android developer is here!
+- 💞️ I’m interested in Android, Kotlin, Java, Gradle, and clean code
 - 👀 I’m looking to collaborate on a modern Android project
 - 🌐 More about me at: <a href="https://nexatech.dz/youcef-debbah/">nexatech.dz/youcef-debbah</a>
-- 📫 You can reach me at: youcef-debbah@hotmail.com
+- 📫 You can reach me at youcef-debbah@hotmail.com
 
 ## Technologies
 <p align="left">
