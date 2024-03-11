@@ -6,7 +6,7 @@
 - 🌐 More about me at <a href="https://nexatech.dz/youcef-debbah/">nexatech.dz/youcef-debbah</a>
 - 📫 You can reach me at youcef-debbah@hotmail.com
 
-<p style="font-size:3em;font-weight:bold">Technologies</p>
+<span style="font-size:3em;font-weight:bold">Technologies</span>
 <p align="left">
   <a href="https://www.android.com/" target="_blank" rel="icon" title="Android">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
