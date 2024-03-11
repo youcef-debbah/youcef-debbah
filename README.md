@@ -1,4 +1,4 @@
-<img align="left" alt="coding" width="400" src="dev-avatar.png">
+<img align="right" alt="coding" width="400" src="dev-avatar.png">
 
 - 👋 Hello! Your friendly and objective Android developer is here!
 - 💞️ I’m interested in Android, Kotlin, Java, Gradle and clean code
@@ -6,8 +6,8 @@
 - 🌐 More about me at <a href="https://nexatech.dz/youcef-debbah/">nexatech.dz/youcef-debbah</a>
 - 📫 You can reach me at youcef-debbah@hotmail.com
 
-## Technologies
-<p align="right">
+<p style="font-size:2em;">Technologies</p>
+<p align="left">
   <a href="https://www.android.com/" target="_blank" rel="icon" title="Android">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
   </a>
