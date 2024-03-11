@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="dev-avatar.png">
+<img align="left" alt="coding" width="400" src="dev-avatar.png">
 
 - 👋 Hello! Your friendly and objective Android developer is here!
 - 💞️ I’m interested in Android, Kotlin, Java, Gradle and clean code
@@ -7,7 +7,7 @@
 - 📫 You can reach me at youcef-debbah@hotmail.com
 
 ## Technologies
-<p align="left">
+<p align="right">
   <a href="https://www.android.com/" target="_blank" rel="icon" title="Android">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
   </a>
