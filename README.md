@@ -2,7 +2,7 @@
 
 - 👋 I'm a full-stack Android developer with 6+ years of experience
 - 💞️ I like Android, Kotlin, Java, Gradle, and clean code
-- 👀 I'm seeking to collaborate on a modern mobile app project
+- 👀 I'm looking to collaborate on a modern mobile app project
 - 🌐 More about me at <a href="https://nexatech.dz/youcef-debbah/">nexatech.dz/youcef-debbah</a>
 - 📫 You can contact me at youcef-debbah@hotmail.com
 
